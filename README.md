@@ -1,79 +1,32 @@
 ```
-     ______________________________________________________________________
-  |:..                                                      ``:::%%%%%%HH|
-  |%%%:::::..                    I n t r o                     `:::::%%%%|
-  |HH%%%%%:::::....._______________________________________________::::::|
-.    .        .      .             . .     .        .          .          .
-         .                 .                    .                .
-  .               A long time ago in a galaxy far, far away...   .
-     .               .           .               .        .             .
-     .      .            .                 .                                .
- .      .         .         .   . :::::+::::...      .          .         .
-     .         .      .    ..::.:::+++++:::+++++:+::.    .     .
-                        .:.  ..:+:..+|||+..::|+|+||++|:.             .     .
-            .   .    :::....:::::::::++||||O||O#OO|OOO|+|:.    .
-.      .      .    .:..:..::+||OO#|#|OOO+|O||####OO###O+:+|+               .
-                 .:...:+||O####O##||+|OO|||O#####O#O||OO|++||:     .    .
-  .             ..::||+++|+++++|+::|+++++O#O|OO|||+++..:OOOOO|+  .         .
-     .   .     +++||++:.:++:..+#|. ::::++|+++||++O##O+:.++|||#O+    .
-.           . ++++++++...:+:+:.:+: ::..+|OO++O|########|++++||##+            .
-  .       .  :::+++|O+||+::++++:::+:::+++::+|+O###########OO|:+OO       .  .
-     .       +:+++|OO+|||O:+:::::.. .||O#OOO||O||#@###@######:+|O|  .
- .          ::+:++|+|O+|||++|++|:::+O#######O######O@############O
-          . ++++: .+OO###O++++++|OO++|O#@@@####@##################+         .
-      .     ::::::::::::::::::::++|O+..+#|O@@@@#@###O|O#O##@#OO####     .
- .        . :. .:.:. .:.:.: +.::::::::  . +#:#@:#@@@#O||O#O@:###:#| .      .
-                           `. .:.:.:.:. . :.:.:%::%%%:::::%::::%:::
-.      .                                      `.:.:.:.:   :.:.:.:.  .   .
-           .                                                                .
-      .
-.          .                                                       .   .
-                                                                             .
-    .        .                                                           .
-    .     .                                                           .      .
-  .     .                                                        .
-              .   A terrible civil war burns throughout the  .        .     .
-                 galaxy: a rag-tag group of freedom fighters   .  .
-     .       .  has risen from beneath the dark shadow of the            .
-.        .     evil monster the Galactic Empire has become.                  .
-   .             Imperial  forces  have  instituted  a reign of   .      .
-             terror,  and every  weapon in its arsenal has  been
-          . turned upon the Rebels  and  their  allies:  tyranny, .   .
-   .       oppression, vast fleets, overwhelming armies, and fear.        .  .
-.      .  Fear  keeps  the  individual systems in line,  and is the   .
-         prime motivator of the New Order.             .
-    .      Outnumbered and outgunned,  the Rebellion burns across the   .    .
-.      vast reaches of space and a thousand-thousand worlds, with only     .
-    . their great courage - and the mystical power known as the Force -
-     flaming a fire of hope.                                    .
-       This is a  galaxy  of wondrous aliens,  bizarre monsters,  strange   .
- . Droids, powerful weapons, great heroes, and terrible villains.  It is a
-  galaxy of fantastic worlds,  magical devices, vast fleets, awesome machi-  .
- nery, terrible conflict, and unending hope.              .         .
-.        .          .    .    .            .            .                   .
-               .               ..       .       .   .             .
- .      .     T h i s   i s   t h e   g a l a x y   o f   . . .             .
-                     .              .       .                    .      .
-.        .               .       .     .            .
-   .           .        .                     .        .            .
-             .               .    .          .              .   .         .
-               _________________      ____         __________
- .       .    /                 |    /    \    .  |          \
-     .       /    ______   _____| . /      \      |    ___    |     .     .
-             \    \    |   |       /   /\   \     |   |___>   |
-           .  \    \   |   |      /   /__\   \  . |         _/               .
- .     ________>    |  |   | .   /            \   |   |\    \_______    .
-      |            /   |   |    /    ______    \  |   | \           |
-      |___________/    |___|   /____/      \____\ |___|  \__________|    .
-  .     ____    __  . _____   ____      .  __________   .  _________
-       \    \  /  \  /    /  /    \       |          \    /         |      .
-        \    \/    \/    /  /      \      |    ___    |  /    ______|  .
-         \              /  /   /\   \ .   |   |___>   |  \    \
-   .      \            /  /   /__\   \    |         _/.   \    \            +
-           \    /\    /  /            \   |   |\    \______>    |   .
-            \  /  \  /  /    ______    \  |   | \              /          .
- .       .   \/    \/  /____/      \____\ |___|  \____________/  LS
-                               .                                        .
-     .                           .         .               .                 .
-                .                                   .            .
+   _________________________________
+  |:::::::::::::;;::::::::::::::::::|
+  |:::::::::::'~||~~~``:::::::::::::|
+  |::::::::'   .':     o`:::::::::::|
+  |:::::::' oo | |o  o    ::::::::::|
+  |::::::: 8  .'.'    8 o  :::::::::|
+  |::::::: 8  | |     8    :::::::::|
+  |::::::: _._| |_,...8    :::::::::|
+  |::::::'~--.   .--. `.   `::::::::|
+  |:::::'     =8     ~  \ o ::::::::|
+  |::::'       8._ 88.   \ o::::::::|
+  |:::'   __. ,.ooo~~.    \ o`::::::|
+  |:::   . -. 88`78o/:     \  `:::::|
+  |::'     /. o o \ ::      \88`::::|   "He will join us or die."
+  |:;     o|| 8 8 |d.        `8 `:::|
+  |:.       - ^ ^ -'           `-`::|
+  |::.                          .:::|
+  |:::::.....           ::'     ``::|
+  |::::::::-'`-        88          `|
+  |:::::-'.          -       ::     |
+  |:-~. . .                   :     |
+  | .. .   ..:   o:8      88o       |
+  |. .     :::   8:P     d888. . .  |
+  |.   .   :88   88      888'  . .  |
+  |   o8  d88P . 88   ' d88P   ..   |
+  |  88P  888   d8P   ' 888         |
+  |   8  d88P.'d:8  .- dP~ o8       |   Darth Vader (1)
+  |      888   888    d~ o888    LS |
+  |_________________________________|
+
 ```
